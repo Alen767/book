@@ -3,6 +3,8 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
+	"homepage": "https://alen767.github.io/book",
+
 	"scripts": {
 		"editorconfig": "editorconfig-checker",
 		"test": "npm run editorconfig",
